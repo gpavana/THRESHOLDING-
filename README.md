@@ -68,21 +68,17 @@ for i in range(0,9):
   plt.show()
 ```
 ## Output
-
-<div align="center">
-  <img height=16% width=24% src="![Screenshot 2024-04-09 145127](https://github.com/gpavana/THRESHOLDING-/assets/118787343/7a2494fb-b814-4510-af43-48709e364e52)">
-  <img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/8a9f5ba2-1530-4d31-a7bf-d678cf2a1373">
-</div>
-<br>
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/6369ecf1-c4e7-470d-b31f-e0461a95e347">
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/ef410220-311c-4ac2-8c91-c729ea08eb10">
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/54cea3b1-ffa8-46a1-b0a6-fcdc5c5f3b0b">
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/967a322e-d54f-46b8-8712-075702edf43b">
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/2a81045e-5f38-44db-a129-4acbcc0e3aea">
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/6eba90df-0f1c-45fd-9fa9-42736d5f24f6">
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/ed838784-71d3-40da-a1a3-9db9026108a0">
-<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/c9d334a1-3ff3-4573-931f-a208e1b131c8">
-
+- ORIGINAL IMAGE:
+![Screenshot 2024-04-09 145127](https://github.com/gpavana/THRESHOLDING-/assets/118787343/a17a51dd-89aa-4e51-9194-ec0a4300e7a9)
+- GRAY IMAGE:
+![Screenshot 2024-04-09 145133](https://github.com/gpavana/THRESHOLDING-/assets/118787343/7ab38b59-fa9a-485c-a16d-b67983a4cddf)
+-GLOBAL THRESHOLDING:
+![Screenshot 2024-04-09 145159](https://github.com/gpavana/THRESHOLDING-/assets/118787343/39b15e07-1346-4869-8e56-756d880c4efc)![Screenshot 2024-04-09 145206](https://github.com/gpavana/THRESHOLDING-/assets/118787343/7286a4d7-b1e0-44de-97cb-74ae0313f624)
+![Screenshot 2024-04-09 145213](https://github.com/gpavana/THRESHOLDING-/assets/118787343/d2721127-dbbf-414b-bc25-d636fe9f1305)![Screenshot 2024-04-09 145218](https://github.com/gpavana/THRESHOLDING-/assets/118787343/d9d95269-285b-4017-8a83-6133b787d09a)![Screenshot 2024-04-09 145223](https://github.com/gpavana/THRESHOLDING-/assets/118787343/3ceb7f49-93b7-49b2-b586-64339bf06ca8)
+-ADAPTIVE THRESHOLDING:
+![Screenshot 2024-04-09 145240](https://github.com/gpavana/THRESHOLDING-/assets/118787343/4ea01256-a0db-4244-a592-af45c6b45233)
+-OTSU THRESHOLDING:
+![Screenshot 2024-04-09 145229](https://github.com/gpavana/THRESHOLDING-/assets/118787343/113ca1af-0140-407a-9af3-6b4cb1c845b9)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
