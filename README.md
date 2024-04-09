@@ -68,32 +68,20 @@ for i in range(0,9):
   plt.show()
 ```
 ## Output
-### Original Image
+
 <div align="center">
-  <img height=16% width=24% src="![image](https://github.com/gpavana/THRESHOLDING-/assets/118787343/6be5b89b-d157-4369-b910-e8b61f8c396f)">
-  <img height=16% width=24% src="![image](https://github.com/gpavana/THRESHOLDING-/assets/118787343/622d31d1-220d-48fb-aecb-c03d06485e6c)">
-
-
-### Global Thresholding
+  <img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/bd2932d3-c4b6-4fa9-9cef-64b82537452f">
+  <img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/8a9f5ba2-1530-4d31-a7bf-d678cf2a1373">
+</div>
 <br>
-<br>
-<br>
-<br>
-<br>
-
-### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/6369ecf1-c4e7-470d-b31f-e0461a95e347">
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/ef410220-311c-4ac2-8c91-c729ea08eb10">
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/54cea3b1-ffa8-46a1-b0a6-fcdc5c5f3b0b">
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/967a322e-d54f-46b8-8712-075702edf43b">
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/2a81045e-5f38-44db-a129-4acbcc0e3aea">
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/6eba90df-0f1c-45fd-9fa9-42736d5f24f6">
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/ed838784-71d3-40da-a1a3-9db9026108a0">
+<img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/c9d334a1-3ff3-4573-931f-a208e1b131c8">
 
 
 ## Result
