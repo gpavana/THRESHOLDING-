@@ -70,7 +70,7 @@ for i in range(0,9):
 ## Output
 
 <div align="center">
-  <img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/bd2932d3-c4b6-4fa9-9cef-64b82537452f">
+  <img height=16% width=24% src="![Screenshot 2024-04-09 145127](https://github.com/gpavana/THRESHOLDING-/assets/118787343/7a2494fb-b814-4510-af43-48709e364e52)">
   <img height=16% width=24% src="https://github.com/ROHITJAIND/EX-9-THRESHOLDING/assets/118707073/8a9f5ba2-1530-4d31-a7bf-d678cf2a1373">
 </div>
 <br>
